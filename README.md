@@ -6,8 +6,7 @@ Some Features:
 👾 Real-time messaging with Socket.io
 🚀 Online user status (Socket.io and React Context)
 🐞 Error handling both on the server and on the client
-⭐ At the end Deployment like a pro for FREE!
-⏳ And much more!
+⭐ At the end Deployment
 
 ### Setup .env file
 
