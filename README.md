@@ -29,16 +29,16 @@ npm run build
 ```shell
 npm start
 ```
+### Project Demo : https://talk-a-tive-7fgq.onrender.com/
 
 ### Here is the Project Demo 
-![Screenshot (199)](https://github.com/user-attachments/assets/ab2589a7-df64-49db-82a8-1aa788c5bf34)
-![Screenshot (201)](https://github.com/user-attachments/assets/1df0ac07-6f2a-4b83-ae22-07df6029ef10)
-![Screenshot (202)](https://github.com/user-attachments/assets/9db804bd-0d70-4196-b59d-a2d339759f40)
-![Screenshot (203)](https://github.com/user-attachments/assets/bfd4c5aa-4b4e-4125-80f6-29be5a2e004c)
-![Screenshot (205)](https://github.com/user-attachments/assets/04f94cd0-a15f-4f85-ab19-a5d75eed3b66)
-![Screenshot (206)](https://github.com/user-attachments/assets/ce8bc939-fdad-469c-9391-53e29a150c1c)
-![Screenshot (207)](https://github.com/user-attachments/assets/47d52e17-2042-4a2e-9fbe-a5e639bd9ad6)
-![Screenshot (208)](https://github.com/user-attachments/assets/56a85c12-5732-46b4-94ca-f4182b42e0f6)
+### Login and SignUp Page
+![Screenshot (213)](https://github.com/user-attachments/assets/82e8085a-b4a5-40d0-b6b7-7bccd9ad9a87)
+### Real Time one to one chatting
+![Screenshot (212)](https://github.com/user-attachments/assets/f417d08c-4229-4e52-b2d3-0e88d87a9bb4)
+### Group Chat
+![Screenshot (211)](https://github.com/user-attachments/assets/76c6ea7d-e726-4655-9815-19f2113ec3b5)
+
 
 
 
